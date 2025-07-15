@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/inev89/rust-projects">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="logo.png" alt="Logo" width="300" height="300">
   </a>
 
 <h3 align="center">Rust-Projects!</h3>
