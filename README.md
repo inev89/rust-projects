@@ -32,6 +32,9 @@ This performs a simple process injection by using VirtualAllocEx, WriteProcessMe
 ### text_loader
 This performs a simple process injection with shellcode in the text section by using VirtualAlloc, copy, VirtualProtect, and CreateThread.
 
+### resource_loader
+This performs a simple process injection with shellcode in a resource file by loading the resource and then using VirtualAlloc, copy, VirtualProtect, and CreateThread.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
