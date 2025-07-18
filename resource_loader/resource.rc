@@ -1,0 +1,2 @@
+#define FAVICON_ICO 101
+FAVICON_ICO RCDATA "app.ico"
